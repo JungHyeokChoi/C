@@ -1,0 +1,5 @@
+﻿  Ex_10.c
+e:\workspace\c_workspace\chapter05\chapter05\ex_10.c(7): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+e:\workspace\c_workspace\chapter05\chapter05\ex_10.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Chapter05.vcxproj -> E:\Workspace\C_workspace\Chapter05\Debug\Chapter05.exe

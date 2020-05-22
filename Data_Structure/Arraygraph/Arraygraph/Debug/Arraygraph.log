@@ -1,0 +1,4 @@
+﻿  Arraygraph.c
+e:\workspace\c_workspace\data_structure\arraygraph\arraygraph\arraygraph.c(218): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+e:\workspace\c_workspace\data_structure\arraygraph\arraygraph\arraygraph.c(226): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+  Arraygraph.vcxproj -> E:\Workspace\C_workspace\Data_Structure\Arraygraph\Debug\Arraygraph.exe

@@ -1,0 +1,4 @@
+﻿  Ex_6.c
+e:\workspace\c_workspace\chapter04\chapter04\ex_6.c(10): warning C4047: '=': 'char *'의 간접 참조 수준이 'char (*)[5]'과(와) 다릅니다.
+e:\workspace\c_workspace\chapter04\chapter04\ex_6.c(5): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'char (*)[5]'과(와) 다릅니다.
+  Chapter04.vcxproj -> E:\Workspace\C_workspace\Chapter04\Debug\Chapter04.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "char_clnt_multhread_win", "char_clnt_multhread_win.vcxproj", "{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Debug|x64.ActiveCfg = Debug|x64
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Debug|x64.Build.0 = Debug|x64
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Debug|x86.Build.0 = Debug|Win32
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Release|x64.ActiveCfg = Release|x64
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Release|x64.Build.0 = Release|x64
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Release|x86.ActiveCfg = Release|Win32
+		{A0FA5BEA-A1C5-4AD1-868E-9A8DBD37C93A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD310004-360D-4D3E-B82D-A77E1421D51C}
+	EndGlobalSection
+EndGlobal

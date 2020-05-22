@@ -1,0 +1,5 @@
+﻿  Ex_6.c
+e:\workspace\c_workspace\chapter01\chapter01\ex_6.c(11): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+e:\workspace\c_workspace\chapter01\chapter01\ex_6.c(17): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+e:\workspace\c_workspace\chapter01\chapter01\ex_6.c(23): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  Chapter01.vcxproj -> E:\Workspace\C_workspace\Chapter01\Debug\Chapter01.exe

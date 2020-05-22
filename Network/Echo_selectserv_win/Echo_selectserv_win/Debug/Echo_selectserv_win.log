@@ -1,0 +1,3 @@
+﻿  Echo_selectserv_win.c
+e:\workspace\c_workspace\network\echo_selectserv_win\echo_selectserv_win\echo_selectserv_win.c(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Echo_selectserv_win.vcxproj -> E:\Workspace\C_workspace\Network\Echo_selectserv_win\Debug\Echo_selectserv_win.exe

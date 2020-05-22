@@ -1,0 +1,5 @@
+﻿  Bintree_Test.c
+  Bintreeop.c
+e:\workspace\c_workspace\data_structure\binarytree\binarytree\bintreeop.c(197): warning C4098: 'increaseKeyBTNode': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
+  BinaryTree.vcxproj -> E:\Workspace\C_workspace\Data_Structure\BinaryTree\Debug\BinaryTree.exe

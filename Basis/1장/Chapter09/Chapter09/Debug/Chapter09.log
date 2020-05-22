@@ -1,0 +1,4 @@
+﻿  Ex_8.c
+e:\workspace\c_workspace\1장\chapter09\chapter09\ex_8.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Chapter09.vcxproj -> E:\Workspace\C_workspace\1장\Chapter09\Debug\Chapter09.exe

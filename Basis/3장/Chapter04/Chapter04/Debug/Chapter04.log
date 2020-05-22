@@ -1,0 +1,9 @@
+﻿  Ex_3.c
+e:\workspace\c_workspace\chapter04\chapter04\ex_3.c(19): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+e:\workspace\c_workspace\chapter04\chapter04\ex_3.c(25): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+e:\workspace\c_workspace\chapter04\chapter04\ex_3.c(31): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+e:\workspace\c_workspace\chapter04\chapter04\ex_3.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+e:\workspace\c_workspace\chapter04\chapter04\ex_3.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Chapter04.vcxproj -> E:\Workspace\C_workspace\Chapter04\Debug\Chapter04.exe
